@@ -1,0 +1,1 @@
+**ВСЕ ЛЕКЦИИ ТУТ ---->** https://github.com/MaximBytecamp/backend-starter-template/tree/main/lectures

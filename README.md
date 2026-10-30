@@ -17,41 +17,25 @@ Python 3.12 и git. На Windows при установке Python отметьт
 
 ## Что где лежит
 
-```
-lesson_01/      занятие 1: домашнее задание и место для вашего кода
-lesson_02/      занятие 2: окружение, модули и пакеты, заготовка и задание
-lesson_03/      занятие 3: практикум «Сборка проекта»
-lesson_04/      занятие 4: практикум «Младший разработчик: первая неделя»
-lesson_05/      занятие 5: проверка типов до запуска, отчёт со снимками
-lesson_06/      занятие 6: практическая по главе 4.3, Pylance и mypy по шагам
-lesson_07/      занятие 7: практическая по главе 4.10, генератор докстрингов и Ruff
-lectures/       конспекты занятий
-materials/      файлы с занятий по темам
-docs/git/       разбор работы с git и GitHub со скриншотами
-```
+### 📚 Домашние работы (по занятиям)
 
-На каждое занятие своя папка. 
+| № | Тема занятия | Перейти к файлам |
+| :---: | :--- | :--- |
+| **01** | Вводное: что такое backend | https://github.com/sdfpzxc/development-of-software-modules/tree/main/lesson_01 |
+| **02** | Окружение, модули и пакеты | https://github.com/sdfpzxc/development-of-software-modules/tree/main/lesson_02 |
+| **03** | Практикум «Сборка проекта» | https://github.com/sdfpzxc/development-of-software-modules/tree/main/lesson_03 |
+| **04** | Практикум «Младший разработчик: первая неделя» | https://github.com/sdfpzxc/development-of-software-modules/tree/main/lesson_04 |
+| **05** | Проверка типов до запуска | https://github.com/sdfpzxc/development-of-software-modules/tree/main/lesson_05 |
+| **06** | Проверка типов: Pylance и mypy | https://github.com/sdfpzxc/development-of-software-modules/tree/main/lesson_06 |
+| **07** | Докстринги в VS Code: генератор и проверка | https://github.com/sdfpzxc/development-of-software-modules/tree/main/lesson_07 |
 
-| Папка | Занятие | Что сдаёте |
-|---|---|---|
-| `lesson_01` | 1 · знакомый сервис изнутри | `homework_01.md` |
-| `lesson_02` | 2 · окружение, модули и пакеты | папку `trip`: окружение, Rich, модуль `calculator.py`, README |
-| `lesson_03` | 3 · практикум «Сборка проекта» | папки `cafe-report` и `text-kit` |
-| `lesson_04` | 4 · практикум «Младший разработчик» | файл рецензии `podpisi_Фамилия_Имя.md` |
-| `lesson_05` | 5 · проверка типов: Pylance и mypy или gopls и go vet | отчёт `otchet_Фамилия_Имя.md`, снимки `img/`, исправленный проект |
-| `lesson_06` | 6 · практическая: Pylance и mypy по шагам главы 4.3 | заполненный `otchet_06.md`, десять снимков `img/`, проект с режимом `basic` |
-| `lesson_07` | 7 · практическая: генератор докстрингов и проверка Ruff, глава 4.10 | заполненный `otchet_07.md`, десять снимков `img/`, проект с докстрингами в двух модулях |
+### 📁 Дополнительные материалы
 
-Новые папки занятий появляются в шаблоне по ходу курса. Забрать папку проще
-всего кнопками: в шаблоне на GitHub **Code → Download ZIP**, распаковать
-и положить нужную папку к себе в проект.
-
-## Лекции и материалы занятий
-
-| Папка | Что внутри |
-|---|---|
-| [`lectures`](lectures/README.md) | конспект каждой темы: что разбирали на лекции, термины, что делали на паре, что вошло в проект |
-| [`materials`](materials/README.md) | файлы с занятий по темам: стартовые проекты, файлы практик, эталоны |
+| Раздел | Перейти к файлам |
+| :--- | :--- |
+| **Документация** | https://github.com/sdfpzxc/development-of-software-modules/tree/main/docs |
+| **Лекции** | https://github.com/sdfpzxc/development-of-software-modules/tree/main/lectures |
+| **Материалы** | https://github.com/sdfpzxc/development-of-software-modules/tree/main/materials |
 
 ## Как сдавать
 
